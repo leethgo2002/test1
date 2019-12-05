@@ -1,0 +1,5 @@
+ssh -i gbswada.pem ubuntu@18.224.29.200
+
+sudo apt update
+sudo apt-get update python3
+sudo apt install
